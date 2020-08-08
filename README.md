@@ -12,5 +12,4 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/mickael-bdias/Periodic-Table-Of-Elements/total)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mickael-bdias/Periodic-Table-Of-Elements)
 ![GitHub contributors](https://img.shields.io/github/contributors/mickael-bdias/Periodic-Table-Of-Elements)
-[![HitCount](http://hits.dwyl.com/{username}/Periodic-Table-Of-Elements.svg)](http://hits.dwyl.com/{username}/Periodic-Table-Of-Elements)
 
