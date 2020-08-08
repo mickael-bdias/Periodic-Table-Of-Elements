@@ -4,7 +4,7 @@
 
 > Program written in Python - TKinter
 
-[!https://img.shields.io/github/license/mickael-bdias/Periodic-Table-Of-Elements]
+![GitHub](https://img.shields.io/github/license/mickael-bdias/Periodic-Table-Of-Elements)
 
 
 
