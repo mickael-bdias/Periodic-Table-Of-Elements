@@ -85,6 +85,10 @@ languages = {
         'title': 'Jedwali la Vipindi vya Vipindi | Industry 4.0 All',
         'select_language': 'Seleziona una lingua',
     },
+    'IN': {
+        'title': 'समय समय पर तत्वो की तालिका | Industry 4.0 All',
+        'select_language': 'Seleziona una lingua',
+    },
     }
 
 
