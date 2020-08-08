@@ -1,8 +1,6 @@
 # Periodic Table of the Elements
 
-> Dynamic Periodic Table of Elements [Multi-language] - Chemistry
-
-> Program written in Python - TKinter
+> Dynamic Periodic Table of Elements [Multi-language] [TKinter]
 
 ![GitHub project status](https://img.shields.io/badge/status-WIP-yellow)
 ![GitHub](https://img.shields.io/github/license/mickael-bdias/Periodic-Table-Of-Elements)
