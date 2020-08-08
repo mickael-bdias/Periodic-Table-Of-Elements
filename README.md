@@ -6,5 +6,5 @@
 
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 
-[![HitCount](http://hits.dwyl.com/mickael-bdias /Periodic-Table-Of-Elements.svg)](http://hits.dwyl.com/mickael-bdias /Periodic-Table-Of-Elements)
+[![HitCount](http://hits.dwyl.com/{username}/Periodic-Table-Of-Elements.svg)](http://hits.dwyl.com/{username}/Periodic-Table-Of-Elements)
 
